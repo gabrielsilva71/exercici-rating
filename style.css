@@ -1,0 +1,15 @@
+.checked {
+	color: #F8D005
+}
+
+.star-row {
+	padding: 250px;
+	padding-bottom: 400px;
+	cursor:pointer;
+}
+
+.star {
+	font-size: 5rem;
+  	margin: 1rem;
+  	color: #F8D005;
+}
